@@ -1,6 +1,6 @@
 {
-	"name": "@lucamattiazzi/partial-fetch-csv",
-	"version": "0.0.1",
+	"name": "partial-fetch-csv",
+	"version": "0.0.2",
 	"description": "Allows partial fetch of a premapped csv",
 	"license": "MIT",
 	"repository": "lucamattiazzi/partial-fetch-csv",
